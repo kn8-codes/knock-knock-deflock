@@ -2,14 +2,14 @@
   "version": "0.11.1",
   "integration_state_schema": 1,
   "installed_integrations": [
-    "hermes"
+    "claude"
   ],
   "integration_settings": {
-    "hermes": {
+    "claude": {
       "script": "sh",
       "invoke_separator": "-"
     }
   },
-  "integration": "hermes",
-  "default_integration": "hermes"
+  "integration": "claude",
+  "default_integration": "claude"
 }
