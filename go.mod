@@ -6,5 +6,5 @@ require github.com/google/uuid v1.6.0
 
 require (
 	github.com/google/gopacket v1.1.19
-	golang.org/x/sys v0.0.0-20190412213103-97732733099d
+	golang.org/x/sys v0.46.0
 )
