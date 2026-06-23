@@ -1,0 +1,3 @@
+dist/
+*.ndjson
+*.ndjson.*
